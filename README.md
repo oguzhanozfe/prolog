@@ -1,2 +1,2 @@
 # prolog
-F,nding who is guilty with clues using prolog
+Finding who is guilty with clues using prolog
